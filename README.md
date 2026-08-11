@@ -23,7 +23,9 @@ username: ztffps
 
 password: dontgocrazy!
 
-
+## Check your HOHOHO~
+If you would like to check if your target had been submitted already, check this out:
+https://ztfweb.ipac.caltech.edu/cgi-bin/getForcedPhotometryRequests.cgi
 
 
 ## Quick Start
