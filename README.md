@@ -2,8 +2,9 @@
 It's an open platform for who are interested in transients. Here we provide some tips to know how to submit object and do light curve analysis.
 
 ## Description
-Before you start your program. You will first need to register by email and indicate your request for registration.
+Before you start your program, you will first need to register by email and indicate your request for registration. (Remark: Strongly advised you register with your institutional email address)
 1. Submit - access to ztf@ipac.caltech.edu
+2. Receive - After your registration got accept, you will also got your own **password** and **submission account**
 
 
 ## Quick Start
