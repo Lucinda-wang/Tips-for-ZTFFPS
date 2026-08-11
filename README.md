@@ -1,4 +1,5 @@
 # Tips-for-ZTFFPS
+It's an open platform for who are interested in transients. Here we provide some tips to know how to submit object and do light curve analysis.
 
 ## Quick Start
 ```python
