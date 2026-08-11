@@ -3,8 +3,15 @@ It's an open platform for who are interested in transients. Here we provide some
 
 ## Description
 Before you start your program, you will first need to register by email and indicate your request for registration. (Remark: Strongly advised you register with your institutional email address)
-1. Submit - access to ztf@ipac.caltech.edu
+1. Submit - Access to ztf@ipac.caltech.edu
 2. Receive - After your registration got accept, you will also got your own **password** and **submission account**
+3. Double check - Ensure your target can be observed by ZTF based on the coordinate.
+4. Record - Record the following parameters before submission.
+   - RA: Right Ascension of the target position (decimal degrees; J2000)
+   - DEC: Declination of the target position (decimal degrees; J2000)
+   - JD_start: Starting date for observation in unit of Julian Date. (decimal days)
+   - JD_end Ending date for observation in unit of Julian Date. (decimal days)
+   - 
 
 
 ## Quick Start
