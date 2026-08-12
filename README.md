@@ -29,11 +29,11 @@ https://ztfweb.ipac.caltech.edu/cgi-bin/getForcedPhotometryRequests.cgi
 
 ## Installation
 ```python
-$ git clone https://github.com/Lucinda-wang/Tips-for-ZTFFPS.git
-$ cd Tips-for-ZTFFPS
-$ pip install -e . 
-
+git clone https://github.com/Lucinda-wang/Tips-for-ZTFFPS.git
+cd Tips-for-ZTFFPS
+pip install -e . 
 ```
+
 ## Quick Start
 ```python
 import numpy as np
