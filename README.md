@@ -27,7 +27,11 @@ password: dontgocrazy!
 If you would like to check if your target had been submitted already, check this out:
 https://ztfweb.ipac.caltech.edu/cgi-bin/getForcedPhotometryRequests.cgi
 
+## Installation
+```python
+git clone 
 
+```
 ## Quick Start
 ```python
 import numpy as np
