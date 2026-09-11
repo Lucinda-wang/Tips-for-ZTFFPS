@@ -1,4 +1,4 @@
-# Tips-for-ZTFFPS
+# FPS_reader
 It's an open platform for who are interested in transients. Here we provide some tips to know how to submit object and do light curve analysis.
 
 ## Description
